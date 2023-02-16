@@ -27,5 +27,6 @@ The MedicalRecord contract has the following modifiers:
 - onlyOwner: Only the owner can call these functions.
 - onlyAuthorized: Only authorized users can call these functions.
 
-## Conclusion
+## Conclusion
+
 The MedicalRecord smart contract is an important tool for securely storing and managing medical records on the Ethereum blockchain. By ensuring that only authorized users can access records, and by restricting access based on the user's role and the expiration date of the record, this contract provides a powerful way to protect sensitive medical data.
